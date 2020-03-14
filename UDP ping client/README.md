@@ -1,4 +1,4 @@
-#### README
+## README
 1) This script is written in python3 and runs in the python 3.5.2 environment on the department linux machines
 
 2) The ping server initialization command is:\

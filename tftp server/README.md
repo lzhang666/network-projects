@@ -1,4 +1,4 @@
-##### README
+## README
 1) The script is written in python 3.8
 
 2) The interpreter of python 3.8 is /Library/Frameworks/Python.framework/Versions/3.8/bin/python3
